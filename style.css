@@ -1,0 +1,49 @@
+header {
+    background-color: rgb(255, 174, 0);
+    background-image: url("images/nuageprogrammer-1835333__340.webp");
+    background-repeat: repeat-y;
+    background-position: bottom ;
+    opacity: 0.7;
+    margin: 20px; margin-bottom: 100px;
+    height: 300px; }
+    
+body {margin: opx; padding: 0%; background-color: rgb(250, 239, 194);}
+footer a {background-color: rgb(255, 174, 50);  
+}
+
+nav a {color: rgb(82, 35, 2); width: 300px;
+font-weight: bolder; text-decoration:rgb(250, 239, 194); font-variant: small-caps; margin-left: 20px; margin-bottom: 50px;
+}
+nav a:hover {text-decoration: underline;}
+
+main{
+text-align: center; margin-left: 20px; margin: 20px
+}
+img {height: 200px; margin-top: 20px; margin-bottom: 30px;
+object-fit: cover
+}
+
+a img {border: 3px solid darkgoldenrod; display: inline-block; color: chocolate;}
+#enter {display:block; border : 1px; background-color:  chocolate; width: 100px; margin-left: auto; margin-right: auto; text-align: center;}
+h1 {color:blue; text-align: center; margin-top: 150px;}
+h1:hover {color: #000;}
+h2 {color:green; }
+h3 {color: goldenrod; background-color: chocolate; width: 100px; }
+
+p img {background-color: none; float: left; display: block; border: 3px solid chocolate
+    ; margin-right: 20px;}
+
+    p { 
+        font-size: 20px; 
+        text-align: justify;
+        padding-left: 20px; 
+        padding-right: 20px;
+        margin-left: 100px;
+        margin-right: 100px; 
+    }
+p h3{float:left; }
+.impair {background-color: none;}
+.pair {background-color: lightgreen;}
+ul li a {color: darkgoldenrod;
+line-height: 1.5em; text-decoration: none; text-decoration: none; }
+footer {background-color: rgb(255, 174, 50); height: 100px;}
